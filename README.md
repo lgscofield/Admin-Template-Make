@@ -1,7 +1,5 @@
 # Admin-Template-Make
 
------
-
 
 This is a flat and responsive admin template for multi-usage built with Bootstrap 3. There are a lot of useful components, well organized and structured properly. It offer you great variety of layout options: RTL, boxed, sidebar on top…
 Make include first admin builder that allow you to customize your admin: sidebar side, style, topbar content, edit links…
